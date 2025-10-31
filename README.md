@@ -1,20 +1,11 @@
-﻿# Sensado Soldadoras - Hardware (KiCad)
+﻿# Hardware Monorepo (KiCad)
 
-Repositorio de diseños de hardware (KiCad) para el sistema de sensado.
+Este repositorio agrupa múltiples proyectos de hardware.
 
-## Estructura
-- kicad/: archivos fuente del proyecto KiCad (.kicad_pro, .kicad_sch, .kicad_pcb, librerías)
-- outputs/: archivos de fabricación
-  - gerbers/, om/, pickplace/, pdf/
-- mechanical/: modelos 3D y mecánica (STEP, STL, etc.)
-- docs/: documentación, datasheets, fotos
+## Proyectos
+- sensado-soldadoras/: Módulo de sensado (KiCad), con kicad/, outputs/, mechanical/, docs/.
 
-## Buenas prácticas
-- Versionado de HW por tags: hw-v1.0, hw-v1.1.
-- Adjuntar Gerbers, BOM y Pick&Place en cada Release.
-- Usar Git LFS para binarios pesados (STEP/PDF/ZIP).
-
-## Generar outputs
-- Exporta Gerbers, BOM (CSV) y Pick&Place desde KiCad y colócalos en outputs/.
-- Exporta esquemáticos y PCB a PDF a outputs/pdf/.
-
+## Flujos
+- Versionar releases por proyecto usando tags por convención, por ejemplo: sensado-soldadoras-hw-v1.0 o hw-v1.0 si el repo contiene un único proyecto activo.
+- Subir Gerbers/BOM/PickPlace y PDFs a cada Release.
+- Usar Git LFS (configurado en .gitattributes) para binarios.
