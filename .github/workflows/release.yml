@@ -4,6 +4,7 @@ on:
   push:
     tags:
       - 'hw-v*'
+      - 'sensado-soldadoras-hw-v*'
 
 jobs:
   release:
