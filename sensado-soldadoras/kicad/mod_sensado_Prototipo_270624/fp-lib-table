@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Archivos de Libreria Importados")(type "KiCad")(uri "C:/Users/Usuario/Desktop/I+D 2024/IOT_2023/MODULO DE SENSADO/KICAD/Archivos de Libreria Importados.pretty")(options "")(descr ""))
+  (lib (name "ESP32-DEVKITC-32D")(type "KiCad")(uri "C:/Users/Usuario/Desktop/I+D 2024/IOT_2023/MODULO DE SENSADO/KICAD/Archivos de Libreria Importados/ESP32-DEVKITC-32D.pretty")(options "")(descr ""))
+)

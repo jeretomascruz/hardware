@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-DEVKITC-32D")(type "KiCad")(uri "C:/Users/Usuario/Desktop/I+D 2024/IOT_2023/MODULO DE SENSADO/KICAD/Archivos de Libreria Importados/ESP32-DEVKITC-32D/ESP32-DEVKITC-32D.kicad_sym")(options "")(descr ""))
+  (lib (name "HCNR201")(type "KiCad")(uri "C:/Users/Usuario/Desktop/I+D 2024/IOT_2023/MODULO DE SENSADO/KICAD/Archivos de Libreria Importados/HCNR201/HCNR201.kicad_sym")(options "")(descr ""))
+  (lib (name "LM358AN")(type "KiCad")(uri "C:/Users/Usuario/Desktop/I+D 2024/IOT_2023/MODULO DE SENSADO/KICAD/Archivos de Libreria Importados/LM358AN/LM358AN.kicad_sym")(options "")(descr ""))
+  (lib (name "RB-0505S")(type "KiCad")(uri "C:/Users/Usuario/Desktop/I+D 2024/IOT_2023/MODULO DE SENSADO/KICAD/Archivos de Libreria Importados/RB-0505S/RB-0505S.kicad_sym")(options "")(descr ""))
+  (lib (name "TL431CLP")(type "KiCad")(uri "C:/Users/Usuario/Desktop/I+D 2024/IOT_2023/MODULO DE SENSADO/KICAD/Archivos de Libreria Importados/TL431CLP/TL431CLP.kicad_sym")(options "")(descr ""))
+  (lib (name "varistor")(type "KiCad")(uri "C:/Users/Usuario/Desktop/I+D 2024/IOT_2023/MODULO DE SENSADO/KICAD/Archivos de Libreria Importados/B72220P3381K101/B72220P3381K101.kicad_sym")(options "")(descr ""))
+  (lib (name "Importados_simbolos")(type "KiCad")(uri "C:/Users/Usuario/Desktop/I+D 2024/IOT_2023/MODULO DE SENSADO/KICAD/Importados_simbolos.kicad_sym")(options "")(descr ""))
+)
