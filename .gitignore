@@ -1,0 +1,16 @@
+﻿# KiCad
+*-backups/
+*.kicad_prl
+*.tmp
+*.bak
+fp-info-cache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+
+# Outputs (generados)
+/outputs/**
